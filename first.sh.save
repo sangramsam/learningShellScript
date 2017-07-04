@@ -1,0 +1,9 @@
+#!/bin/sh
+# this is commmet section
+echo "hello world to shell"
+t="first variable"
+a=2
+b=3
+echo $t
+echo  expr $a + $
+b
